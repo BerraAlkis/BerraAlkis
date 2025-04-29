@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Berra Alkış. I am a freshman student at Bilkent University. I am studying CS.
+I'm Berra Alkış. I am a second year CS student at Bilkent University.
 <!--
 **BerraAlkis/BerraAlkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
